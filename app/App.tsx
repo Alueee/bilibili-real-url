@@ -29,7 +29,7 @@ export default defineComponent({
                   alt="logo"
                   class="h-30px mr-8px rounded-4px align-middle"
                 />
-                <span>屑站解析</span>
+                <span>B站解析</span>
               </h1>
 
               <div class="max-w-800px my-0 mx-auto">
